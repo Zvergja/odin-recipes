@@ -11,3 +11,10 @@ Writing code that is easy to read.
 Folder management using the linux terminal.
 
 
+Log of mistakes and things I have learned
+
+When making this readme file, I meant to change the original readme file, not create a new one.
+-I forgot that the original readme file on github is with CAPITAL letters, and so when I typed <code readme.md> into the terminal I created a new file instead of editing the old one.
+-I however managed to upload the new file to github in little time, and git is properly setup for the project ^^
+
+The project so far when writing this was really easy and elementary. I did not put a lot of effort into this project as I want to move on.
